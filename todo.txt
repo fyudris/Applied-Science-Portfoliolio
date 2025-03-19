@@ -1,0 +1,11 @@
+Data Preparation
+- Missing Values
+- Verteilung: Imputation
+- Data Type Vereinheitlichung
+- Umgang mit Diagnosen
+- Verständnis der Daten
+- PCA?
+
+Data Exploration
+- Correlation Matrix for Fall - Outcome
+- Verteilung / Histogram (e.g. Autoviz) pro wichtige Features inkl. subgroup Fall/Not-Fall

@@ -9,3 +9,13 @@ Data Preparation
 Data Exploration
 - Correlation Matrix for Fall - Outcome
 - Verteilung / Histogram (e.g. Autoviz) pro wichtige Features inkl. subgroup Fall/Not-Fall
+
+
+walk-balance_and_gait_impaired
+excretions-incontinence
+fall-while_stay
+walking_aid
+cognition-agitated
+excretions-impairment
+fall-how_many_last_12_month
+age

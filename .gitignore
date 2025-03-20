@@ -1,7 +1,8 @@
 # Project Definition
 data/
 .DS_STORE
-vscode
+vscode/
+AutogluonModels/
 
 
 # Byte-compiled / optimized / DLL files
